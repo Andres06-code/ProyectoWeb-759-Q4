@@ -1,21 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "UQ+PMbP7SCY=",
+  "dgSpecHash": "ZUwA0YyDfh8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\RiderProjects\\ProyectoPWebQ4Backend\\ProyectoPWebQ4Backend\\ProyectoPWebQ4Backend.csproj",
+  "projectFilePath": "C:\\Users\\noe56\\OneDrive\\Desktop\\Proyecto web\\ProyectoWeb-759-Q4\\ProyectoPWebQ4Backend\\ProyectoPWebQ4Backend.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.7\\microsoft.aspnetcore.openapi.10.0.7.nupkg.sha512",
-    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
-    "C:\\Users\\Usuario\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+    "C:\\Users\\noe56\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.7\\microsoft.aspnetcore.openapi.10.0.7.nupkg.sha512",
+    "C:\\Users\\noe56\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
-      "projectPath": "C:\\Users\\Usuario\\RiderProjects\\ProyectoPWebQ4Backend\\ProyectoPWebQ4Backend\\ProyectoPWebQ4Backend.csproj",
+      "projectPath": "C:\\Users\\noe56\\OneDrive\\Desktop\\Proyecto web\\ProyectoWeb-759-Q4\\ProyectoPWebQ4Backend\\ProyectoPWebQ4Backend.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Usuario\\RiderProjects\\ProyectoPWebQ4Backend\\ProyectoPWebQ4Backend\\ProyectoPWebQ4Backend.csproj",
+      "filePath": "C:\\Users\\noe56\\OneDrive\\Desktop\\Proyecto web\\ProyectoWeb-759-Q4\\ProyectoPWebQ4Backend\\ProyectoPWebQ4Backend.csproj",
       "libraryId": "Microsoft.OpenApi",
       "targetGraphs": [
         "net10.0"
